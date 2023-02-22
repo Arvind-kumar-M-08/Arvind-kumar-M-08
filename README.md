@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arvind Kumar M
 - 👀 I’m interested in Problem solving and Software development
-- 🌱 I’m currently learning flutter  
 - 📫 Reach me through - @marvindkumar2002@gmail.com
 
 <!---
